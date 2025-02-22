@@ -8,11 +8,11 @@ The program will guide the player by telling them whether their guess is too low
 guess until the correct number is found.
 
 Features
-	•	Random number generation between 1 and 10,000.
-	•	Interactive gameplay where the player can input guesses.
-	•	Feedback on whether the guess is too low or too high.
-	•	Dynamic adjustment of the guessing range based on previous guesses.
-	•	The game ends when the correct number is guessed.
+- Random number generation between 1 and 10,000.
+- Interactive gameplay where the player can input guesses.
+- Feedback on whether the guess is too low or too high.
+- Dynamic adjustment of the guessing range based on previous guesses.
+- The game ends when the correct number is guessed.
 
 Example Usage
 
